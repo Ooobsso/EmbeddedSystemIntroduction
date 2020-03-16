@@ -2,7 +2,7 @@
 
 >使用华为物联网培训IoT实验箱BearPi作为课程实验硬件平台。
 
-### 一、课程前的准备
+### 一、课程前的准备Test
 
 1. 下载安装 IDE 工具 [keil C51](https://www.keil.com/download/product/)，配置工具[ST 的 CubeMX](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html)。
 2. 下载安装 [vscode](https://code.visualstudio.com/)，课程中的文档和代码都使用 vscode 编辑。为了获得所见即所得的 [Markdown](https://help.github.com/articles/github-flavored-markdown/) 语言编辑体验，可以使用 [Typora](http://typora.io/)
